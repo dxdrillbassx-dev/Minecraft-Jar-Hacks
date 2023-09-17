@@ -1,5 +1,5 @@
 # Minecraft-Jar-Hacks
-```this.fuse = 80;```
+~~~this.fuse = 80;~~~
 # Change TNT, fuse and explosion
 # Make a SnowBall deadly when thrown
 # Make a SnowBall explode on impact when thrown
